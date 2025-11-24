@@ -4,7 +4,7 @@
 
 ### Empowering India's MSME Ecosystem
 
-<img src="https://raw.githubusercontent.com/CosmicCosmix/HackathonFlutterApp-main/refs/heads/master/image.png" alt="FlowFund" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/CosmicCosmix/HackathonFlutterApp-main/refs/heads/master/Screenshot%202025-11-24%20114243.png" alt="FlowFund" width="100" height="100" />
 
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B.svg?style=for-the-badge&logo=flutter)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
