@@ -318,7 +318,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 <div align="center">
 
-**Project Maintainer**: Abhilash Pattnaik
+**Project Leader**: Abhilash Pattnaik
 
 📧 Email: pixel.abhilash@gmail.com  
 📱 Phone: +91 9426865978  
