@@ -1,0 +1,45 @@
+name: business_funding_portal
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: ^3.6.0
+dependencies: 
+  flutter:   # 🚨 CRITICAL: Required for every Flutter project - DO NOT REMOVE
+    sdk: flutter # 🚨 CRITICAL: Required for every Flutter project - DO NOT REMOVE
+  flutter_localizations: 
+    sdk: flutter
+  flutter_svg: ^2.0.12
+  cached_network_image: ^3.4.1
+  shared_preferences: ^2.3.3
+  connectivity_plus: ^7.0.0
+  gradient_borders: ^1.0.2
+  circle_nav_bar: ^2.2.0 
+  web: any
+dev_dependencies: 
+  flutter_test:    # 🚨 CRITICAL: Required for Flutter project testing - DO NOT REMOVE
+    sdk: flutter    # 🚨 CRITICAL: Required for Flutter project testing - DO NOT REMOVE
+  flutter_lints: ^4.0.0
+flutter: 
+  uses-material-design: true # 🚨 CRITICAL: Required for Material icon font - DO NOT REMOVE
+  assets: 
+    - assets/
+    - assets/images/
+    - assets/images/banks/
+    - assets/data/
+  fonts: 
+    - family: Merriweather
+      fonts: 
+        - asset: assets/fonts/MerriweatherRegular.ttf
+          weight: 400
+        - asset: assets/fonts/MerriweatherBold.ttf
+          weight: 700
+        - asset: assets/fonts/MerriweatherBlack.ttf
+          weight: 900
+
+  # 🚨 CRITICAL ASSET MANAGEMENT RULES:
+  # - DO NOT ADD NEW ASSET DIRECTORIES (assets/svg/, assets/icons/, etc.)
+  # - ONLY USE EXISTING AND ITEMS AVAILABLE IN THE DIRECTORIES LISTED ABOVE (assets/, assets/images/)
+
+  # 🚨 CRITICAL FONTS RULE:
+  # - DO NOT ADD NEW LOCAL FONTS TO assets/fonts/ 
+  # - ONLY USE EXISTING LOCAL FONTS FROM assets/fonts/

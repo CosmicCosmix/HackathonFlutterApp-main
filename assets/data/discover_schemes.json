@@ -1,0 +1,127 @@
+{
+  "carouselItems": [
+    {
+      "title": "HDFC MSME Loan",
+      "subtitle": "Interest: 18-22% | Amount: Up to 50L",
+      "description": "Quick approval for small businesses",
+      "interestRate": "18-22%",
+      "amount": "Up to 50L",
+      "type": "Bank Loan"
+    },
+    {
+      "title": "SBI Business Loan",
+      "subtitle": "Interest: 16-20% | Amount: Up to 75L",
+      "description": "Government-backed financing options",
+      "interestRate": "16-20%",
+      "amount": "Up to 75L",
+      "type": "Bank Loan"
+    },
+    {
+      "title": "ICICI SME Loan",
+      "subtitle": "Interest: 19-23% | Amount: Up to 100L",
+      "description": "Flexible repayment terms available",
+      "interestRate": "19-23%",
+      "amount": "Up to 100L",
+      "type": "Bank Loan"
+    },
+    {
+      "title": "Axis Bank Loan",
+      "subtitle": "Interest: 17-21% | Amount: Up to 60L",
+      "description": "Competitive rates for growing businesses",
+      "interestRate": "17-21%",
+      "amount": "Up to 60L",
+      "type": "Bank Loan"
+    },
+    {
+      "title": "HDFC Working Capital",
+      "subtitle": "Interest: 15-19% | Amount: Up to 200L",
+      "description": "Best for operational expenses",
+      "interestRate": "15-19%",
+      "amount": "Up to 200L",
+      "type": "Working Capital"
+    },
+    {
+      "title": "Kotak Business Loan",
+      "subtitle": "Interest: 18-22% | Amount: Up to 80L",
+      "description": "Fast processing with minimal documentation",
+      "interestRate": "18-22%",
+      "amount": "Up to 80L",
+      "type": "Bank Loan"
+    },
+    {
+      "title": "Yes Bank SME Credit",
+      "subtitle": "Interest: 16-20% | Amount: Up to 90L",
+      "description": "Digital application process",
+      "interestRate": "16-20%",
+      "amount": "Up to 90L",
+      "type": "Bank Loan"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "title": "Pradhan Mantri Mudra Yojana",
+      "subtitle": "Up to 10L | Interest: 8-12%",
+      "description": "Government scheme for small businesses",
+      "interestRate": "8-12%",
+      "amount": "Up to 10L",
+      "type": "Government Scheme"
+    },
+    {
+      "title": "Bihar MSME Loan",
+      "subtitle": "Up to 50L | Interest: 10-15%",
+      "description": "State government backed scheme",
+      "interestRate": "10-15%",
+      "amount": "Up to 50L",
+      "type": "State Scheme"
+    },
+    {
+      "title": "UP Business Loan",
+      "subtitle": "Up to 25L | Interest: 9-13%",
+      "description": "Special rates for UP businesses",
+      "interestRate": "9-13%",
+      "amount": "Up to 25L",
+      "type": "State Scheme"
+    },
+    {
+      "title": "Maharashtra SME Scheme",
+      "subtitle": "Up to 30L | Interest: 11-16%",
+      "description": "Maharashtra state benefits included",
+      "interestRate": "11-16%",
+      "amount": "Up to 30L",
+      "type": "State Scheme"
+    },
+    {
+      "title": "Stand-Up India Scheme",
+      "subtitle": "Up to 1 Cr | Interest: Base + 3%",
+      "description": "For SC/ST and women entrepreneurs",
+      "interestRate": "Base + 3%",
+      "amount": "Up to 1 Cr",
+      "type": "Government Scheme"
+    },
+    {
+      "title": "Credit Guarantee Fund",
+      "subtitle": "Up to 200L | Interest: 12-18%",
+      "description": "No collateral required",
+      "interestRate": "12-18%",
+      "amount": "Up to 200L",
+      "type": "Government Scheme"
+    },
+    {
+      "title": "PSB Loans in 59 Minutes",
+      "subtitle": "Up to 5 Cr | Interest: 8.5-11.5%",
+      "description": "Quick online approval process",
+      "interestRate": "8.5-11.5%",
+      "amount": "Up to 5 Cr",
+      "type": "Government Scheme"
+    },
+    {
+      "title": "Pradhan Mantri Jan Dhan",
+      "subtitle": "Up to 15L | Interest: 7-10%",
+      "description": "For new entrepreneurs",
+      "interestRate": "7-10%",
+      "amount": "Up to 15L",
+      "type": "Government Scheme"
+    }
+  ]
+}
+

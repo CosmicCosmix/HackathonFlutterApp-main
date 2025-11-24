@@ -1,0 +1,70 @@
+{
+  "matches": [
+    {
+      "id": "1",
+      "title": "HDFC MSME Loan",
+      "subtitle": "Interest: 18-22% | Amount: Up to 50L",
+      "matchScore": "95%",
+      "description": "Perfect match for your business needs",
+      "interestRate": "18-22%",
+      "amount": "Up to 50L",
+      "type": "Bank Loan",
+      "highlights": ["Quick Approval", "Low Documentation", "Flexible Repayment"],
+      "processingTime": "2-3 days",
+      "eligibility": "3+ years in business"
+    },
+    {
+      "id": "2",
+      "title": "SBI Business Loan",
+      "subtitle": "Interest: 16-20% | Amount: Up to 75L",
+      "matchScore": "92%",
+      "description": "Government-backed financing option",
+      "interestRate": "16-20%",
+      "amount": "Up to 75L",
+      "type": "Bank Loan",
+      "highlights": ["Government Backed", "Competitive Rates", "Easy Process"],
+      "processingTime": "3-5 days",
+      "eligibility": "2+ years in business"
+    },
+    {
+      "id": "3",
+      "title": "ICICI SME Loan",
+      "subtitle": "Interest: 19-23% | Amount: Up to 100L",
+      "matchScore": "90%",
+      "description": "High amount loan with flexible terms",
+      "interestRate": "19-23%",
+      "amount": "Up to 100L",
+      "type": "Bank Loan",
+      "highlights": ["High Amount", "Flexible Terms", "Digital Platform"],
+      "processingTime": "2-4 days",
+      "eligibility": "1+ years in business"
+    },
+    {
+      "id": "4",
+      "title": "Pradhan Mantri Mudra",
+      "subtitle": "Interest: 8-12% | Amount: Up to 10L",
+      "matchScore": "88%",
+      "description": "Low interest government scheme",
+      "interestRate": "8-12%",
+      "amount": "Up to 10L",
+      "type": "Government Scheme",
+      "highlights": ["Low Interest", "Govt Scheme", "Easy Eligibility"],
+      "processingTime": "5-7 days",
+      "eligibility": "No minimum tenure"
+    },
+    {
+      "id": "5",
+      "title": "Axis Bank Loan",
+      "subtitle": "Interest: 17-21% | Amount: Up to 60L",
+      "matchScore": "87%",
+      "description": "Fast processing with good rates",
+      "interestRate": "17-21%",
+      "amount": "Up to 60L",
+      "type": "Bank Loan",
+      "highlights": ["Fast Processing", "Good Rates", "Online Application"],
+      "processingTime": "1-2 days",
+      "eligibility": "2+ years in business"
+    }
+  ]
+}
+

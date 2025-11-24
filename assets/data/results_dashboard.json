@@ -1,0 +1,98 @@
+{
+  "categories": [
+    {
+      "id": "local",
+      "title": "Local businesses",
+      "icon": "store",
+      "businesses": [
+        {
+          "id": "1",
+          "name": "Local Mart",
+          "fundingNeeded": "5,000",
+          "expectedReturn": "8%",
+          "matchPercentage": "75",
+          "imagePlaceholder": "local_1"
+        },
+        {
+          "id": "2",
+          "name": "Corner Cafe",
+          "fundingNeeded": "8,000",
+          "expectedReturn": "10%",
+          "matchPercentage": "82",
+          "imagePlaceholder": "local_2"
+        },
+        {
+          "id": "3",
+          "name": "Neighborhood Services",
+          "fundingNeeded": "12,000",
+          "expectedReturn": "9%",
+          "matchPercentage": "70",
+          "imagePlaceholder": "local_3"
+        }
+      ]
+    },
+    {
+      "id": "large",
+      "title": "50cr+ businesses",
+      "icon": "corporate_fare",
+      "businesses": [
+        {
+          "id": "4",
+          "name": "Mega Corp Industries",
+          "fundingNeeded": "50,000",
+          "expectedReturn": "12%",
+          "matchPercentage": "88",
+          "imagePlaceholder": "large_1"
+        },
+        {
+          "id": "5",
+          "name": "Enterprise Solutions",
+          "fundingNeeded": "75,000",
+          "expectedReturn": "15%",
+          "matchPercentage": "90",
+          "imagePlaceholder": "large_2"
+        },
+        {
+          "id": "6",
+          "name": "Global Ventures Ltd",
+          "fundingNeeded": "100,000",
+          "expectedReturn": "18%",
+          "matchPercentage": "85",
+          "imagePlaceholder": "large_3"
+        }
+      ]
+    },
+    {
+      "id": "medium",
+      "title": "Medium businesses",
+      "icon": "business",
+      "businesses": [
+        {
+          "id": "7",
+          "name": "Mid-Size Manufacturing",
+          "fundingNeeded": "20,000",
+          "expectedReturn": "11%",
+          "matchPercentage": "80",
+          "imagePlaceholder": "medium_1"
+        },
+        {
+          "id": "8",
+          "name": "Regional Retail Chain",
+          "fundingNeeded": "30,000",
+          "expectedReturn": "9%",
+          "matchPercentage": "75",
+          "imagePlaceholder": "medium_2"
+        },
+        {
+          "id": "9",
+          "name": "Service Provider Co",
+          "fundingNeeded": "15,000",
+          "expectedReturn": "10%",
+          "matchPercentage": "77",
+          "imagePlaceholder": "medium_3"
+        }
+      ]
+    }
+  ]
+}
+

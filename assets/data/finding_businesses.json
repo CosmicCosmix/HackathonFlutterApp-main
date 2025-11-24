@@ -1,0 +1,49 @@
+{
+  "businesses": [
+    {
+      "id": "1",
+      "name": "HLAN Steels",
+      "fundingNeeded": "10,000",
+      "expectedReturn": "12%",
+      "matchPercentage": "85",
+      "category": "Manufacturing",
+      "location": "Mumbai, Maharashtra",
+      "description": "Steel manufacturing company seeking expansion capital",
+      "imagePlaceholder": "business_1"
+    },
+    {
+      "id": "2",
+      "name": "RS Stores",
+      "fundingNeeded": "50,000",
+      "expectedReturn": "3%",
+      "matchPercentage": "50",
+      "category": "Retail",
+      "location": "Delhi, NCR",
+      "description": "Retail chain looking for inventory financing",
+      "imagePlaceholder": "business_2"
+    },
+    {
+      "id": "3",
+      "name": "Tech Innovations Pvt Ltd",
+      "fundingNeeded": "25,000",
+      "expectedReturn": "15%",
+      "matchPercentage": "92",
+      "category": "Technology",
+      "location": "Bangalore, Karnataka",
+      "description": "Software development startup",
+      "imagePlaceholder": "business_3"
+    },
+    {
+      "id": "4",
+      "name": "Green Energy Solutions",
+      "fundingNeeded": "75,000",
+      "expectedReturn": "10%",
+      "matchPercentage": "78",
+      "category": "Energy",
+      "location": "Pune, Maharashtra",
+      "description": "Renewable energy project funding",
+      "imagePlaceholder": "business_4"
+    }
+  ]
+}
+
