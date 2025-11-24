@@ -4,12 +4,12 @@
 
 ### Empowering India's MSME Ecosystem
 
-<img src="https://raw.githubusercontent.com/Souvik8426/HackathonFlutterApp/10d6e6bbcf518f004079aa2910d79ec095460503/image.png?token=BG6ALBR23B3VPLOYAZSEH5LJEQBCW" alt="FlowFund" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/CosmicCosmix/HackathonFlutterApp-main/refs/heads/master/image.png" alt="FlowFund" width="100" height="100" />
 
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B.svg?style=for-the-badge&logo=flutter)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
+[![Abhilash GitHub](https://img.shields.io/badge/GitHub-Abhilash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmiccosmix)
+[![Souvik GitHub](https://img.shields.io/badge/GitHub-Souvik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souvik8426)
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Tech Stack](#-tech-stack) • [Roadmap](#-roadmap) • [Team](#-team)
 
@@ -82,23 +82,23 @@ India's **63 million MSMEs** face a staggering **₹30 lakh crore credit gap**. 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x650/6366f1/ffffff?text=Home+Screen" alt="Home Screen" width="250"/>
+<img src="https://raw.githubusercontent.com/CosmicCosmix/HackathonFlutterApp-main/refs/heads/master/Screenshot_20251124_174042.png" alt="Home Screen" width="250"/>
 <br /><b>Home Screen</b>
 </td>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x650/8b5cf6/ffffff?text=Business+Profile" alt="Business Profile" width="250"/>
+<img src="https://raw.githubusercontent.com/CosmicCosmix/HackathonFlutterApp-main/refs/heads/master/Screenshot_20251124_174137.png" alt="Business Profile" width="250"/>
 <br /><b>Business Profile</b>
 </td>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x650/ec4899/ffffff?text=Funding+Results" alt="Funding Results" width="250"/>
+<img src="https://raw.githubusercontent.com/CosmicCosmix/HackathonFlutterApp-main/refs/heads/master/Screenshot_20251124_174150.png" alt="Funding Results" width="250"/>
 <br /><b>Funding Results</b>
 </td>
 </tr>
 </table>
 
-### Desktop Dashboard *(Future Scope)*
+### Development Done via Android Studio
 
-<img src="https://via.placeholder.com/1200x600/3b82f6/ffffff?text=Desktop+Dashboard+Coming+Soon" alt="Desktop Dashboard" width="900"/>
+<img src="https://raw.githubusercontent.com/CosmicCosmix/HackathonFlutterApp-main/a234786fcb81a3afccdd816d39ab992ff48a5d47/image.png" alt="Desktop Dashboard" width="900"/>
 
 </div>
 
