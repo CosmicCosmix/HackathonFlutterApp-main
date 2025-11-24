@@ -11,7 +11,7 @@
 [![Abhilash GitHub](https://img.shields.io/badge/GitHub-Abhilash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmiccosmix)
 [![Souvik GitHub](https://img.shields.io/badge/GitHub-Souvik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souvik8426)
 
-[Features](#features) • [Demo](#demo) • [READ ME PDF](https://github.com/CosmicCosmix/HackathonFlutterApp-main/blob/master/README.pdf) • [Tech Stack](#tech-stack) • [Team](#team)
+[Features](https://github.com/CosmicCosmix/HackathonFlutterApp-main?tab=readme-ov-file#-features) • [Demo](https://github.com/CosmicCosmix/HackathonFlutterApp-main?tab=readme-ov-file#-demo) • [READ ME PDF](https://github.com/CosmicCosmix/HackathonFlutterApp-main/blob/master/README.pdf) • [Tech Stack](https://github.com/CosmicCosmix/HackathonFlutterApp-main?tab=readme-ov-file#%EF%B8%8F-tech-stack) • [Team](https://github.com/CosmicCosmix/HackathonFlutterApp-main?tab=readme-ov-file#-team)
 
 </div>
 
