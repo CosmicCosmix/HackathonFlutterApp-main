@@ -9,7 +9,6 @@
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B.svg?style=for-the-badge&logo=flutter)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Abhilash GitHub](https://img.shields.io/badge/GitHub-Abhilash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmiccosmix)
-[![Souvik GitHub](https://img.shields.io/badge/GitHub-Souvik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souvik8426)
 
 [Features](https://github.com/CosmicCosmix/HackathonFlutterApp-main?tab=readme-ov-file#-features) • [Demo](https://github.com/CosmicCosmix/HackathonFlutterApp-main?tab=readme-ov-file#-demo) • [READ ME PDF](https://github.com/CosmicCosmix/HackathonFlutterApp-main/blob/master/README.pdf) • [Tech Stack](https://github.com/CosmicCosmix/HackathonFlutterApp-main?tab=readme-ov-file#%EF%B8%8F-tech-stack) • [Team](https://github.com/CosmicCosmix/HackathonFlutterApp-main?tab=readme-ov-file#-team)
 
@@ -134,75 +133,6 @@ India's **63 million MSMEs** face a staggering **₹30 lakh crore credit gap**. 
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-```bash
-flutter --version  # Flutter 3.x required
-dart --version     # Dart 3.x
-```
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/flow-fund.git
-   cd flow-fund
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Configure Firebase**
-   - Add your `google-services.json` (Android)
-   - Add your `GoogleService-Info.plist` (iOS)
-
-4. **Run the app**
-   ```bash
-   flutter run
-   ```
-
-### Building for Production
-
-```bash
-# Android
-flutter build apk --release
-
-# iOS
-flutter build ios --release
-```
-
----
-
-## 📊 Current Status
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" width="50" height="50">
-</div>
-
-### ✅ MVP Stage (Hackathon Demo)
-
-**What's Working:**
-- ✔️ Cross-platform app on Android/iOS
-- ✔️ User registration and login
-- ✔️ Business profiling with validation
-- ✔️ Personalized results dashboard
-- ✔️ Investment cards
-- ✔️ Comparison tools
-- ✔️ Wishlist functionality
-- ✔️ 10-15 dummy businesses/schemes
-- ✔️ Basic matching algorithm
-
-**Current Limitations:**
-- ⚠️ No live government APIs (using static data)
-- ⚠️ Self-reported credit scores
-- ⚠️ Simplified risk scoring
-
----
-
 ## 🗺️ Roadmap
 
 <table>
@@ -295,22 +225,6 @@ Flow Fund is committed to bridging the financial literacy gap for **40 million u
 - Problem Statement ID: `PST_7c4de1790ad24ae7`
 
 </div>
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting PRs.
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" height="60">
-</div>
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
